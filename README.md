@@ -1,4 +1,4 @@
-- 👋 Hi, we are the @drxteam-dev Mai Account
+- 👋 Hi, we are the @drxteam-dev Main Account
 
 - We create lower use Discord.py and Discord.js Bots for Roleplay as Community Servers.
 
