@@ -1,6 +1,7 @@
 - 👋 Hi, we are the @drxteam-dev Main Account
 
 - We create lower use Discord.py and Discord.js Bots for Roleplay as Community Servers.
+- We also create FiveM Scripts, which are free but are not good as other ones.
 
 - Check out our latest Commits and co.
 
